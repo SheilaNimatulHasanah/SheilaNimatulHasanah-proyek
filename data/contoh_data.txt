@@ -1,0 +1,8 @@
+Ayu,85
+Budi,78
+Cici,60
+Dodi,105
+Eko,0
+Fani,100
+Gita,-5
+Hana,abc
