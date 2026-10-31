@@ -1,0 +1,24 @@
+==================================================
+       LAPORAN REKAP & ANALISIS NILAI KELAS       
+==================================================
+
+--- RINGKASAN STATISTIK ---
+Total Siswa Valid  : 5
+Nilai Rata-rata    : 64.60
+Nilai Minimum      : 0.0
+Nilai Maksimum     : 100.0
+
+--- STATUS KETUNTASAN (KKM = 75.0) ---
+Jumlah Tuntas       : 3
+Jumlah Belum Tuntas : 2
+
+--- DETAIL DAFTAR NILAI SISWA ---
+No.  Nama Siswa           Nilai      Status         
+--------------------------------------------------
+1    Ayu                  85.0       Tuntas         
+2    Budi                 78.0       Tuntas         
+3    Cici                 60.0       Belum Tuntas   
+4    Eko                  0.0        Belum Tuntas   
+5    Fani                 100.0      Tuntas         
+
+==================================================
